@@ -18,12 +18,6 @@ To use the face detection model:
 4. Position yourself in front of your webcam, and the model will start detecting your face in real-time. Detected faces will be outlined with rectangles drawn on the video feed.
 5. To quit the program, simply press the ``` q ``` key on your keyboard.
 
-## Contributing
-
-Contributions to this project are welcome! If you have any suggestions for improvements, bug fixes, or additional features, please feel free to open an issue or submit a pull request. Contributions can range from optimizing the existing code for better performance to adding new functionalities or improving the user interface.
-
-When contributing, please ensure that your code adheres to the established coding standards and practices. Also, provide clear and concise documentation for any changes or additions made to the project.
-
 ## Do Follow me for more AI projects : https://github.com/shubh-soubhagya
 
 
